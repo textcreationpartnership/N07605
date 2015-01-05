@@ -108,8 +108,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:009708_0000_0F7A4696960ED1F0"/>
-            <pb facs="tcp:009708_0001_0F7A469700EB7940"/>
+            <pb facs="unknown:009708_0000_0F7A4696960ED1F0"/>
+            <pb facs="unknown:009708_0001_0F7A469700EB7940"/>
             <p>A COURSE OF EXPERIMENTS, IN that curious and entertaining Branch of NATURAL PHILOSOPHY, called ELECTRICITY; Accompanied with explanatory LECTURES: IN which ELECTRICITY and LIGHTNING, will be proved to be the same Thing.</p>
             <p>BY EBENEZER KINNERSLEY, <hi>M. A.</hi>
             </p>
@@ -118,7 +118,7 @@
             <p>Printed by A. ARMBRUSTER, MDCCLXIV.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:009708_0002_0F7A4697C33E9CB8"/>
+            <pb facs="unknown:009708_0002_0F7A4697C33E9CB8"/>
             <p>
                <hi>As the Knowledge of Nature tends to enlarge the human Mind, and give us more noble, more grand and exalted Ideas of the</hi> AUTHOR <hi>of</hi> NATURE; <hi>it is presumed that this Course of Experiments will meet with Encouragement, as a rational and commendable Entertain<g ref="char:EOLhyphen"/>ment.</hi>
             </p>
@@ -132,7 +132,7 @@
       </front>
       <body>
          <div n="1" type="lecture">
-            <pb n="3" facs="tcp:009708_0003_0F7A469899E26F30"/>
+            <pb n="3" facs="unknown:009708_0003_0F7A469899E26F30"/>
             <head>LECTURE I.</head>
             <p n="1">I. OF Electricity in general, with some Account of its Discovery.</p>
             <p n="2">II. Experiments, showing that Electricity, when produced by the Friction of Glass, is not created by that Friction.</p>
@@ -145,7 +145,7 @@
             <p n="9">IX. That, when it darts thro' the Air from our Body to another, it will produce Heat by its violent Motion. <hi>The two last Propositions will be proved by a very accurate Thermometer of a new Construction.</hi>
             </p>
             <p n="10">
-               <pb n="4" facs="tcp:009708_0004_0F7A46994930BCC8"/>X. That it will subsist in WATER as well as in any other Matter; the greatest Quantity thereof being not sufficient to quench the smallest Spark of it.</p>
+               <pb n="4" facs="unknown:009708_0004_0F7A46994930BCC8"/>X. That it will subsist in WATER as well as in any other Matter; the greatest Quantity thereof being not sufficient to quench the smallest Spark of it.</p>
             <p n="11">XI. That Sparks of it may be seen and felt rising out of cold Water, or even a Piece of Ice, which will kindle up a burning Flame.</p>
             <p n="12">XII. That it is an extremely <hi>subtile</hi> Matter; as appears by its passing with the greatest Readiness through so dense a Body as Metal.</p>
             <p n="13">XIII. That it takes no perceptible Time in passing through large Portions of Space.</p>
@@ -153,7 +153,7 @@
             <p n="15">XV. That seperate Bodies having different Quantities of it in Proportion to their re<g ref="char:EOLhyphen"/>spective Magnitudes, mutually <hi>attract</hi> each other; and the greater the Difference, the stronger the Attraction.</p>
             <p n="16">XVI. That suspended Bodies in Contact, upon having their natural Quantity either en<g ref="char:EOLhyphen"/>creased, or diminished, mutually <hi>recede</hi> from each other.</p>
             <p n="17">XVII. That Bodies thus seperated, will immediately come again into Contact, if the
-<pb n="5" facs="tcp:009708_0005_0F7A469A0B131928"/>
+<pb n="5" facs="unknown:009708_0005_0F7A469A0B131928"/>
 Air surrounding them be made to have <gap reason="illegible: obscured" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> the same Degree of Electricity that they have.</p>
@@ -169,7 +169,7 @@ Air surrounding them be made to have <gap reason="illegible: obscured" extent="1
             <p n="25">XXV. A Battery of eleven Guns, discharg<g ref="char:EOLhyphen"/>ed by Fire issuing out of a Person's Finger.</p>
          </div>
          <div n="2" type="lecture">
-            <pb n="6" facs="tcp:009708_0006_0F7A469AD0287980"/>
+            <pb n="6" facs="unknown:009708_0006_0F7A469AD0287980"/>
             <head>LECTURE II.</head>
             <p n="1">I. A Description and Explanation of the famous <hi>Leyden Experiment,</hi> which is the Foundation of most of the principal Discoveries that have been since made in Electricity.</p>
             <p n="2">II. An <hi>empty</hi> Bottle performing the <hi>Leyden Experiment,</hi> without having any non-electric Matter communicating with its inner Surface.</p>
@@ -179,7 +179,7 @@ Air surrounding them be made to have <gap reason="illegible: obscured" extent="1
             <p n="6">VI. Electricity shown to be the same with Lightning.</p>
             <p n="7">VII. A bright Flash of real Lightning, darting from a Cloud in a painted Thunder-Storm.</p>
             <p n="8">
-               <pb n="7" facs="tcp:009708_0007_0F7A469B89479858"/>VIII. The Cause and Effects of Lightning explained.</p>
+               <pb n="7" facs="unknown:009708_0007_0F7A469B89479858"/>VIII. The Cause and Effects of Lightning explained.</p>
             <p n="9">IX. The Force of a small Quantity of it making a fair Hole through a Quire of Paper.</p>
             <p n="10">X. An Animal killed by it instantaneously.</p>
             <p n="11">XI. Metal melted by it on Glass, and some of the Metal incorporated with the Substance of the Glass.</p>
@@ -190,7 +190,7 @@ Air surrounding them be made to have <gap reason="illegible: obscured" extent="1
             <p n="15">XV. Why it is more frequent in Summer than Winter.</p>
             <p n="16">XVI. An Experiment showing how Houses, Ships, <hi>&amp;c.</hi> may be secured from being damaged by Lightning.</p>
             <p n="17">XVII. What Part, in a House not so se<g ref="char:EOLhyphen"/>cured, is safest to be in, during a Thunder-Gust,
-<pb n="8" facs="tcp:009708_0008_0F7A469D156D65B8"/>
+<pb n="8" facs="unknown:009708_0008_0F7A469D156D65B8"/>
 in Case the House should be struck with Lightning.</p>
             <p n="18">XVIII. The Endeavouring to guard against Lightning, in the Manner proposed, shown to be not chargeable with Presumption, nor inconsistent with any of the Principles, either of natural or revealed Religion.</p>
             <p n="19">XIX. A curious Machine put in Motion by Lightning, and playing various Tunes on eight musical Bells.</p>
